@@ -1,0 +1,153 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "work": "Expériences",
+    "skills": "COMPÉTENCES",
+    "projects": "",
+    "education": "Formations",
+    "interests": "Intérets"
+  },
+  "basics": {
+    "name": "Erwan Hervé",
+    "email": "erwan.herve@outlook.fr",
+    "phone": "0633717087",
+    "location": {
+      "city": "Orgères"
+    },
+    "website": "https://www.linkedin.com/in/erwan-herv%C3%A9-886309123/",
+    "profiles": [{
+      "network": "LinkedIn",
+      "url": "https://www.linkedin.com/in/erwan-herv%C3%A9-886309123/"
+    }]
+  },
+  "education": [
+    {
+      "institution": "ENI Ecole Informatique",
+      "location": "Chartres de bretagne",
+      "area": "Administrateur Systèmes et Réseaux",
+      "startDate": "",
+      "endDate": "2019",
+      "gpa": "",
+      "studyType": "BAC +4"
+    },
+    {
+      "institution": "ENI Ecole Informatique",
+      "location": "Chartres de bretagne",
+      "studyType": "BAC +2",
+      "area": "Technicien supérieur réseaux informatique et télécoms",
+      "endDate": "2018"
+    },
+    {
+      "area": "Technicien assistance informatique",
+      "endDate": "2015",
+      "studyType": "BAC",
+      "location": "Langueux",
+      "institution": "AFPA"
+    }
+  ],
+  "work": [
+    {
+      "company": "Claranet",
+      "highlights": [
+        "Administration d'un parc informatique de plus de 600 postes Windows/MAC/Linux",
+        "Administration de différents services : Active Directory, O365, Messagerie, VOIP, Visio-conférence, MDM, VPN, SSO, Sharepoint, Confluence, Conformité des postes, Scripting PowerShell, Switchs, Vlan, BDD, Gestion de projets"
+      ],
+      "summary": "Alternance pour le titre de niveau II Administrateur Systèmes et Réseaux",
+      "position": "Administrateur de parc informatique",
+      "website": "https://www.claranet.fr/",
+      "startDate": "2018",
+      "location": "Cesson Cevigné",
+      "endDate": "2019"
+    },
+    {
+      "company": "Sopra Steria",
+      "highlights": [
+        "Automatisation de sujets complexes (Un SI entièrement automatisé)",
+        "Conception d’architecture de Systèmes d’informations",
+        "Durcissement des OS",
+        "Conception Test Driven Development",
+        "Coordination d'une équipe 4 collaborateurs",
+        "Affectation des tâches",
+        "Validation du code",
+        "Animation de sprint"
+      ],
+      "summary": "Ma mission était de concevoir et développer un système d'informations entièrement automatisé.",
+      "position": "Ingénieur systèmes DevOps / Lead tech",
+      "location": "Chartres de bretagne",
+      "website": "https://www.soprasteria.fr/",
+      "startDate": "2019",
+      "endDate": "2022"
+    },
+    {
+      "company": "Akeneo",
+      "highlights": [
+        "Gestion d'une infra cloud"
+      ],
+      "summary": "",
+      "position": "Ingénieur Cloud",
+      "location": "Remote",
+      "startDate": "2022",
+      "endDate": "Maintenant"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Tools",
+      "level": "",
+      "keywords": [
+        "Ansible", "Packer", "Terraform", "Kubernetes"
+      ]
+    },
+    {
+      "keywords": [
+        ""
+      ],
+      "name": "Expertise des environnements systèmes et réseaux"
+    },
+    {
+      "keywords": [
+        ""
+      ],
+      "name": "Scripting PowerShell, BASH, Python"
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "DevOps Foundation",
+      "date": "2021",
+      "issuer": "DevOps Institute",
+      "url": "https://www.devopsinstitute.com/certifications/devops-foundation/"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Jeux vidéos"
+    },
+    {
+      "name": "Domotique"
+    },
+    {
+      "name": "Cinémas et séries"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "certificates",
+    "interests"
+  ]
+}
