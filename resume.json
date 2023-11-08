@@ -8,25 +8,25 @@
     "interests": "Intérets"
   },
   "basics": {
-    "name": "Erwan Hervé",
-    "email": "erwan.herve@outlook.fr",
-    "phone": "0633717087",
+    "name": "Hélène Hervé",
+    "email": "helene.herve@outlook.fr",
+    "phone": "0662158343",
     "location": {
       "city": "Orgères"
     },
-    "website": "https://www.linkedin.com/in/erwan-herv%C3%A9-886309123/",
+    "website": "https://www.linkedin.com/in/h%C3%A9l%C3%A8ne-herv%C3%A9-4526a3ba/",
     "profiles": [{
       "network": "LinkedIn",
-      "url": "https://www.linkedin.com/in/erwan-herv%C3%A9-886309123/"
+      "url": "https://www.linkedin.com/in/h%C3%A9l%C3%A8ne-herv%C3%A9-4526a3ba/"
     }]
   },
   "education": [
     {
       "institution": "ENI Ecole Informatique",
       "location": "Chartres de bretagne",
-      "area": "Administrateur Systèmes et Réseaux",
+      "area": "Concepteur Développeur d'Application",
       "startDate": "",
-      "endDate": "2019",
+      "endDate": "2024",
       "gpa": "",
       "studyType": "BAC +4"
     },
@@ -34,60 +34,35 @@
       "institution": "ENI Ecole Informatique",
       "location": "Chartres de bretagne",
       "studyType": "BAC +2",
-      "area": "Technicien supérieur réseaux informatique et télécoms",
-      "endDate": "2018"
-    },
-    {
-      "area": "Technicien assistance informatique",
-      "endDate": "2015",
-      "studyType": "BAC",
-      "location": "Langueux",
-      "institution": "AFPA"
+      "area": "Développeur Web et Web Mobile",
+      "endDate": "2023"
     }
   ],
   "work": [
     {
-      "company": "Claranet",
+      "company": "Association rennaise des centres sociaux",
       "highlights": [
-        "Administration d'un parc informatique de plus de 600 postes Windows/MAC/Linux",
-        "Administration de différents services : Active Directory, O365, Messagerie, VOIP, Visio-conférence, MDM, VPN, SSO, Sharepoint, Confluence, Conformité des postes, Scripting PowerShell, Switchs, Vlan, BDD, Gestion de projets"
+        "",
       ],
-      "summary": "Alternance pour le titre de niveau II Administrateur Systèmes et Réseaux",
-      "position": "Administrateur de parc informatique",
-      "website": "https://www.claranet.fr/",
-      "startDate": "2018",
-      "location": "Cesson Cevigné",
-      "endDate": "2019"
-    },
-    {
-      "company": "Sopra Steria",
-      "highlights": [
-        "Automatisation de sujets complexes (Un SI entièrement automatisé)",
-        "Conception d’architecture de Systèmes d’informations",
-        "Durcissement des OS",
-        "Conception Test Driven Development",
-        "Coordination d'une équipe 4 collaborateurs",
-        "Affectation des tâches",
-        "Validation du code",
-        "Animation de sprint"
-      ],
-      "summary": "Ma mission était de concevoir et développer un système d'informations entièrement automatisé.",
-      "position": "Ingénieur systèmes DevOps / Lead tech",
-      "location": "Chartres de bretagne",
-      "website": "https://www.soprasteria.fr/",
-      "startDate": "2019",
-      "endDate": "2022"
-    },
-    {
-      "company": "Akeneo",
-      "highlights": [
-        "Gestion d'une infra cloud"
-      ],
-      "summary": "",
-      "position": "Ingénieur Cloud",
-      "location": "Remote",
+      "summary": "Saisie et révision des comptes annuel de l'association",
+      "position": "Assistante comptable",
+      "location": "Rennes",
+      "website": "https://centres-sociaux-rennais.org/",
       "startDate": "2022",
-      "endDate": "Maintenant"
+      "endDate": "2015"
+    },
+    {
+      "company": "Samsic",
+      "highlights": [
+        "Création d'un intranet",
+        ""
+      ],
+      "summary": "Alternance pour le titre de niveau II Concepteur développeur d'application",
+      "position": "Développeuse web",
+      "website": "https://www.samsic.fr/",
+      "startDate": "2023",
+      "location": "Cesson Cevigné",
+      "endDate": "2024"
     }
   ],
   "skills": [
@@ -95,20 +70,20 @@
       "name": "Tools",
       "level": "",
       "keywords": [
-        "Ansible", "Packer", "Terraform", "Kubernetes"
+        "Docker", "ElasticSearch", "MySQL"
       ]
     },
     {
       "keywords": [
         ""
       ],
-      "name": "Expertise des environnements systèmes et réseaux"
+      "name": "programming languages"
     },
     {
       "keywords": [
         ""
       ],
-      "name": "Scripting PowerShell, BASH, Python"
+      "name": "PHP/Symfony, Javascript, HTML/CSS, SQL"
     }
   ],
   "projects": [
@@ -121,20 +96,12 @@
       ]
     }
   ],
-  "certificates": [
-    {
-      "name": "DevOps Foundation",
-      "date": "2021",
-      "issuer": "DevOps Institute",
-      "url": "https://www.devopsinstitute.com/certifications/devops-foundation/"
-    }
-  ],
   "interests": [
     {
       "name": "Jeux vidéos"
     },
     {
-      "name": "Domotique"
+      "name": "Jeux de société"
     },
     {
       "name": "Cinémas et séries"
@@ -147,7 +114,6 @@
     "work",
     "skills",
     "projects",
-    "certificates",
     "interests"
   ]
 }
